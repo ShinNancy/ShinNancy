@@ -14,7 +14,7 @@
 🔹 AI Engineer with expertise in Deep Learning, Computer Vision, and full-stack development.  
 🔹 Passionate about building intelligent systems and scalable software solutions.  
 🔹 Contributor to open-source projects and always exploring cutting-edge technologies.  
-
+🔹 Vietnamese (love Languages: English, Korean, Chinese, Japanese).  
 ---
 
 ## 🛠️ Tech Stack  
